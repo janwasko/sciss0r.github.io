@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Aerial by HTML5 UP</title>
+		<title>UX Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -20,22 +20,22 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Adam Jensen</h1>
-						<p>Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this</p>
+						<h1>Jan Waśko</h1>
+						<p>Student &nbsp;&bull;&nbsp; UX Designer To Be &nbsp;&bull;&nbsp; Unicorn of Love</p>
 						<nav>
 							<ul>
-								<li><a href="#" class="icon fa-map"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-								<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-								<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+								<li><a href="#" class="icon fa-map"><span class="label">Mapeco</span></a></li>
+								<li><a href="#" class="icon fa-newspaper-o"><span class="label">Muralove</span></a></li>
+								<li><a href="#" class="icon fa-clock-o"><span class="label">SmartWatch</span></a></li>
+								<li><a href="#" class="icon fa-television"><span class="label">SmartTV</span></a></li>
+								<li><a href="#" class="icon fa-ticket"><span class="label">Email</span></a></li>
 							</ul>
 						</nav>
 					</header>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<span class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+						<span class="copyright">&copy; All rights reserved.</span>
 					</footer>
 
 			</div>

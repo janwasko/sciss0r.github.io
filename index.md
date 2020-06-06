@@ -24,11 +24,11 @@
 						<p>Student &nbsp;&bull;&nbsp; UX Designer To Be &nbsp;&bull;&nbsp; Unicorn of Love</p>
 						<nav>
 							<ul>
-								<li><a href="#" class="icon fa fa-map"><span class="label">Mapeco</span></a></li>
-								<li><a href="#" class="icon fa fa-newspaper-o"><span class="label">Muralove</span></a></li>
-								<li><a href="#" class="icon fa fa-clock-o"><span class="label">SmartWatch</span></a></li>
-								<li><a href="#" class="icon fa fa-television"><span class="label">SmartTV</span></a></li>
-								<li><a href="#" class="icon fa fa-ticket"><span class="label">Biletomat</span></a></li>
+								<li><a href="#" class="icon fa-map"><span class="label">Mapeco</span></a></li>
+								<li><a href="#" class="icon fa-newspaper-o"><span class="label">Muralove</span></a></li>
+								<li><a href="#" class="icon fa-clock-o"><span class="label">SmartWatch</span></a></li>
+								<li><a href="#" class="icon fa-television"><span class="label">SmartTV</span></a></li>
+								<li><a href="#" class="icon fa-ticket"><span class="label">Biletomat</span></a></li>
 							</ul>
 						</nav>
 					</header>

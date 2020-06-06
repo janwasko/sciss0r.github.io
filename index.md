@@ -25,9 +25,9 @@
 						<nav>
 							<ul>
 								<li><a href="#" class="fas fa-map"><span class="label">Mapeco</span></a></li>
-								<li><a href="#" class="icon fa-newspaper-o"><span class="label">Muralove</span></a></li>
-								<li><a href="#" class="icon fa-clock-o"><span class="label">SmartWatch</span></a></li>
-								<li><a href="#" class="icon fa-television"><span class="label">SmartTV</span></a></li>
+								<li><a href="#" class="fas fa-desktop"><span class="label">Muralove</span></a></li>
+								<li><a href="#" class="fas fa-clock"><span class="label">SmartWatch</span></a></li>
+								<li><a href="#" class="fas fa-tv"><span class="label">SmartTV</span></a></li>
 								<li><a href="#" class="fas fa-ticket-alt"><span class="label">Biletomat</span></a></li>
 							</ul>
 						</nav>

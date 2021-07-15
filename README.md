@@ -1,2 +1,2 @@
-# portfolio
-UX portfolio
+# homepage
+JW's Homepage
